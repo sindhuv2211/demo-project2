@@ -1,0 +1,14 @@
+.child {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(12, 188, 47);
+}
+.parent {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  /*justify-content: flex-end;*/
+  align-items: center;
+  height: 50vh;
+  background-color: rgb(43, 116, 226);
+}
